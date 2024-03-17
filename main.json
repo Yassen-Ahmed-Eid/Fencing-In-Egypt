@@ -1,0 +1,211 @@
+{
+    "accounts": [
+        {
+            "email": "yousefgaber2792008@gmail.com",
+            "password": "Yousef123",
+            "username": "Yousef mohamed gaber",
+            "phonenumber": "01153106449",
+            "Government": "Cairo",
+            "Academy": "None",
+            "Age": "2008-09-27"
+        },
+        {
+            "email": "moatsemhussam33@gmail.com",
+            "password": "moatasembellah2008",
+            "username": "moatasem-bellah",
+            "phonenumber": "01068522242",
+            "Government": "Qena",
+            "Academy": "None",
+            "Age": "2008-04-13"
+        },
+        {
+            "email": "elmaghraby1662007@gmail.com",
+            "password": "Osama01065735349",
+            "username": "Osama elmaghraby ",
+            "phonenumber": "01065735349",
+            "Government": "Beheira",
+            "Academy": "none",
+            "Age": "2007-06-16"
+        },
+        {
+            "email": "elmaghraby1662007@gmail.com",
+            "password": "Osama1212",
+            "username": "Osama elmaghraby ",
+            "phonenumber": "01065735349",
+            "Government": "Beheira",
+            "Academy": "None",
+            "Age": "12-12-2007"
+        },
+        {
+            "email": "jooaboouf03@gmail.com",
+            "password": "Yousef1711",
+            "username": "Yousef said",
+            "phonenumber": "01271543188",
+            "Government": "Monufia",
+            "Academy": "None",
+            "Age": "11-17-2007"
+        },
+        {  
+            "email": "ahmedmazroue73@gmail.com",
+            "password": "Ahmed292",
+            "username": "Ahmed Mazroue",
+            "phonenumber": "01080570847",
+            "Government": "Monufia",
+            "Academy": "None",
+            "Age": "02-29-2008"
+        },
+        {
+            "email": "oa9605522@gmail.com",
+            "password": "Omar242",
+            "username": "Omar Ahmed",
+            "phonenumber": "01123658221",
+            "Government": "Minya",
+            "Academy": "None",
+            "Age": "02-24-2008"
+        },
+        {
+            "email": "mazennaser190@gmail.com",
+            "password": "Mazen286",
+            "username": "Mazen Nasser ",
+            "phonenumber": "01149618698",
+            "Government": "Cairo",
+            "Academy": "None",
+            "Age": "06-28-2007"
+        },
+        {
+            "email": "yousefdaily2@gmail.com",
+            "password": "01153106449",
+            "username": "Yousef mohamed gaber",
+            "phonenumber": "01153106449",
+            "Government": "Cairo",
+            "Academy": "None",
+            "Age": "10-15-2008"
+        },
+        {
+            "email": "menamagdy182008@gmail.com",
+            "password": "mena182008",
+            "username": "Mena Magdy",
+            "phonenumber": "01009104356",
+            "Government": "Fayom",
+            "Academy": "None",
+            "Age": "08-01-2008"
+        },
+        {
+            "email": "omarsoudy271@gmail.com",
+            "password": "Omar111",
+            "username": "Omar Soudy ",
+            "phonenumber": "01093820285",
+            "Government": "Cairo",
+            "Academy": "None",
+            "Age": "01-11-2007"
+        },
+        {
+            "email": "tootya49@gmail.com",
+            "password": "abdallah142008",
+            "username": "Abdallah ahmed",
+            "phonenumber": "01064461800",
+            "Government": "Sohag",
+            "Academy": "None",
+            "Age": "04-01-2008"
+        },
+        {
+            "email": "andrewashraf799@gmail.com",
+            "password": "01226768262",
+            "username": "Andrew Ashraf ",
+            "phonenumber": "01226768262",
+            "Government": "Giza",
+            "Academy": "None",
+            "Age": "03-30-2008"
+        },
+        {
+            "email": "philipatef56lol@gmail.com",
+            "password": "Philopateer182008",
+            "username": "Philopateer atef samir",
+            "phonenumber": "01024295426",
+            "Government": "Minya",
+            "Academy": "None",
+            "Age": "08-01-2008"
+        },
+        {
+            "email": "youssefaliashryali@gmail.com",
+            "password": "Youssef154",
+            "username": "Youssef ali ",
+            "phonenumber": "01011162559",
+            "Government": "Fayom",
+            "Academy": "None",
+            "Age": "04-15-2007"
+        },
+        {
+            "email": "ayoubalaa008@gmail.com",
+            "password": "01099315846",
+            "username": "Ayoub alaa",
+            "phonenumber": "01099315846",
+            "Government": "Suez",
+            "Academy": "None",
+            "Age": "12-08-2007"
+        },
+        {
+            "email": "mazen.sa3eed99@gmail.com",
+            "password": "3082008mz",
+            "username": "Mazen Saeed Araby ",
+            "phonenumber": "01556785149",
+            "Government": "Cairo",
+            "Academy": "None",
+            "Age": "08-30-2008"
+        },
+        {
+            "email": "mohanadnaeem2007@gmail.com",
+            "password": "Mohaned1762007",
+            "username": "Mohanad naeem ",
+            "phonenumber": "01558771524",
+            "Government": "Beheira",
+            "Academy": "None",
+            "Age": "06-17-2007"
+        },
+        {
+            "email": "hassanhosam648@gmail.com",
+            "password": "Hossam246",
+            "username": "Hossam Hassan",
+            "phonenumber": "01007938742",
+            "Government": "Monufia",
+            "Academy": "None",
+            "Age": "06-24-2008"
+        },
+        {
+            "email": "ramezelwakil@gmail.com",
+            "password": "01202506367",
+            "username": "Ramez Osama Abass ",
+            "phonenumber": "01277294555",
+            "Government": "Alexandria",
+            "Academy": "None",
+            "Age": "10-18-2007"
+        },
+        {
+            "email": "omarallam710@gmail.com",
+            "password": "omar107",
+            "username": "Omar Ahmed Mohamed",
+            "phonenumber": "01202506367",
+            "Government": "Cairo",
+            "Academy": "None",
+            "Age": "10-07-2008"
+        },
+        {
+            "email": "zatef5812@gmail.com",
+            "password": "Zyad168",
+            "username": "Zyad Attef Goda",
+            "phonenumber": "01104848217",
+            "Government": "Cairo",
+            "Academy": "None",
+            "Age": "08-16-2023"
+        },
+        {
+            "email": "mn0977396@gmail.com",
+            "password": "01013006741",
+            "username": "Mohamed Mahmoud",
+            "phonenumber": "01013006741",
+            "Government": "Luxor",
+            "Academy": "None",
+            "Age": "09-21-2008"
+        }
+    ]
+}

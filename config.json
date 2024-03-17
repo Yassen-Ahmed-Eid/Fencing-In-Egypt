@@ -1,0 +1,5 @@
+{
+    "link": "http://localhost:8443",
+    "loginApiLink": "http://127.0.0.1:81",
+    "signupApiLink": "http://127.0.0.1:81"
+}

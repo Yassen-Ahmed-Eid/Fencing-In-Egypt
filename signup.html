@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Login Page - YASSEN AHMED </title>
+    <link rel="stylesheet" href="sign up.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@48,300,0,0" />
+</head>
+<body>
+    <form action="/signup" method="post">
+    <div class="login-card-container">
+        <div class="login-card">
+            <div class="login-card-logo">
+                <img src="logo.png" alt="logo">
+            </div>
+            <div class="login-card-header">
+                <h1>Sign Up</h1>
+                <div>Please sign up to use website</div>
+            </div>
+            <form class="login-card-form">
+                <div class="form-item">
+                    <span class="form-item-icon material-symbols-rounded">person</span>
+                    <input type="text" name="username" placeholder="Enter username" required autofocus>
+                </div>
+            <form class="login-card-form">
+                <div class="form-item">
+                    <span class="form-item-icon material-symbols-rounded">Email</span>
+                    <input type="text" name="emailLogin" placeholder="Enter Email" required autofocus>
+                </div>
+                <div class="form-item">
+                    <span class="form-item-icon material-symbols-rounded">lock</span>
+                    <input type="password" name="passwordLogin" placeholder="Enter password" required>
+                </div>
+                <div class="form-item">
+                    <span class="form-item-icon material-symbols-rounded">phone</span>
+                    <input pattern="^01[0-2]\d{1,8}$" type="tel" name="phonenumber" placeholder="Enter phone number" required required>
+                </div>
+                <div class="form-item">
+                    <span class="form-item-icon material-symbols-rounded">cottage</span>
+                    <input type="text" name="Government" placeholder="Enter Government" required required>
+                </div>
+                <div class="form-item">
+                    <span class="form-item-icon material-symbols-rounded">Swords</span>
+                    <input type="text" name="Academy" placeholder="Enter Academy" required required>
+                </div>
+                <div style="margin-bottom: 15px;" class="form-item">
+                    <span class="form-item-icon material-symbols-rounded">cake</span>
+                    <input type="date" name="Age" placeholder="Enter Age" required required>
+                </div>
+                <!-- <div class="form-item">
+                    <span class="form-item-icon material-symbols-rounded">phone</span>
+                    <input type="text" name="phone-numper" placeholder="Enter phone numper" required required>
+                </div>
+                <div class="form-item">
+                    <span class="form-item-icon material-symbols-rounded">cottage</span>
+                    <input type="text" name="Goverment" placeholder="Enter Goverment" required required>
+                </div>
+                <div class="form-item">
+                    <span class="form-item-icon material-symbols-rounded">Swords</span>
+                    <input type="text" name="Academy" placeholder="Enter Academy" required required>
+                </div>
+                <div class="form-item">
+                    <span class="form-item-icon material-symbols-rounded">cake</span>
+                    <input type="number" name="Age" placeholder="Enter Age" required required>
+                </div> -->
+                <button type="submit"class="sign">Sign up</button>
+                <button onclick="document.location='main.html'"class= visitor >login as visitor</button>
+            </form>
+            <div class="login-card-footer">
+             have an account? <a href="/login">login</a>.
+            </div>
+        </div>
+                </a>
+            </div>
+        </div>
+    </div>
+</form>
+</body>
+</html>
